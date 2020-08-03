@@ -1,0 +1,13 @@
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\bin\Debug\netcoreapp3.1\ListTaskFinalDraft.exe
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\bin\Debug\netcoreapp3.1\ListTaskFinalDraft.deps.json
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\bin\Debug\netcoreapp3.1\ListTaskFinalDraft.runtimeconfig.json
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\bin\Debug\netcoreapp3.1\ListTaskFinalDraft.runtimeconfig.dev.json
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\bin\Debug\netcoreapp3.1\ListTaskFinalDraft.dll
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\bin\Debug\netcoreapp3.1\ListTaskFinalDraft.pdb
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.csprojAssemblyReference.cache
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.AssemblyInfoInputs.cache
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.AssemblyInfo.cs
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.csproj.CoreCompileInputs.cache
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.dll
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.pdb
+C:\Users\kress\source\repos\ListTaskFinalDraft\ListTaskFinalDraft\obj\Debug\netcoreapp3.1\ListTaskFinalDraft.genruntimeconfig.cache
